@@ -1,6 +1,5 @@
 # Bank-Customer-Segmentation
 
-![Bank Customer Segmentation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9Ch45BmBMe3QxmYt6iBRGiPXwJHX4CjB6g&usqp=CAU)
 
 ## Context
 
@@ -22,3 +21,4 @@
 ## About the Dataset
 
 <p>This dataset consists of 1 Million+ transaction by over 800K customers for a bank in India. The data contains information such as - customer age (DOB), location, gender, account balance at the time of the transaction, transaction details, transaction amount, etc.</p>
+
